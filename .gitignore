@@ -1,0 +1,4 @@
+# Iginorar esses arquivos do ambiente de desenvolvimento
+
+node_modules
+.env
