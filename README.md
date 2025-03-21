@@ -6,6 +6,9 @@ Este repositório contém uma API simples utilizando **Node.js**, **Express** e 
 - Node.js
 - Express
 - MongoDB + Mongoose
+- Jsonwebtoken (JWT)
+- bcrypt
+- hash
 - Dotenv
 - Nodemon (para desenvolvimento)
 
@@ -13,7 +16,7 @@ Este repositório contém uma API simples utilizando **Node.js**, **Express** e 
 
 ### 1️⃣ Clonar o repositório
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/RobsonPMartins/AuthAPI.git
 cd seu-repositorio
 ```
 
